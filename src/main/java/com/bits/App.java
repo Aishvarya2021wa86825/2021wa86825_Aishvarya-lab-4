@@ -1,4 +1,4 @@
-package com.bits;
+System.out.println("Hello World - Jenkins CI Test");package com.bits;
 
 public class App {
     public static void main(String[] args) {
